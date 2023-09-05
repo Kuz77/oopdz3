@@ -1,0 +1,8 @@
+User input: ytd
+Answer: Answer{userInput='ytd', bull(на своем месте) = 3, cow(угадал символов = 3}
+Game status: WINNER
+User input: 123
+Answer: Answer{userInput='123', bull(на своем месте) = 0, cow(угадал символов = 0}
+User input: asd
+Answer: Answer{userInput='asd', bull(на своем месте) = 0, cow(угадал символов = 0}
+Game status: LOSE
